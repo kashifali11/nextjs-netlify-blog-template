@@ -1,21 +1,21 @@
 {
-  "name": "block",
+  "name": "new",
   "description": null,
   "schema_version": "latest",
   "metadata": {},
   "prompts": [
     {
-      "name": "prompt_lyioctkr1j0639",
-      "input": "I was just testing it",
+      "name": "prompt_lyx2ffbbfoxcuw",
+      "input": "This is updated version",
       "metadata": {
         "model": {
           "name": "gpt-3.5-turbo-1106",
           "settings": {
-            "top_p": 1,
-            "max_tokens": 4096,
             "temperature": 0.7,
-            "presence_penalty": 0,
+            "max_tokens": 4096,
+            "top_p": 1,
             "frequency_penalty": 0,
+            "presence_penalty": 0,
             "system_prompt": ""
           }
         },
