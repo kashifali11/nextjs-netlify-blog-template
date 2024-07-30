@@ -1,12 +1,10 @@
 {
-  "name": "new",
-  "description": null,
   "schema_version": "latest",
   "metadata": {},
   "prompts": [
     {
-      "name": "prompt_lyx2ffbbfoxcuw",
-      "input": "This is updated version",
+      "name": "prompt_lz8hv0kl64i2lg",
+      "input": "Hey I am adding this new input",
       "metadata": {
         "model": {
           "name": "gpt-3.5-turbo-1106",
