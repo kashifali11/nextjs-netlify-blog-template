@@ -1,10 +1,11 @@
 {
+  "name": "v2",
   "schema_version": "latest",
   "metadata": {},
   "prompts": [
     {
-      "name": "prompt_lz9qf8b7f7rxrj",
-      "input": "Hello there",
+      "name": "prompt_lz9qip11k2einh",
+      "input": "Helo",
       "metadata": {
         "model": {
           "name": "gpt-3.5-turbo-1106",
