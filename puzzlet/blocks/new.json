@@ -16,10 +16,12 @@
             "top_p": 1,
             "frequency_penalty": 0,
             "presence_penalty": 0,
-            "system_prompt": ""
+            "system_prompt": "Hello"
           }
         },
-        "parameters": {}
+        "parameters": {
+          "my": "var"
+        }
       }
     }
   ],
