@@ -1,12 +1,11 @@
 {
   "name": "new",
-  "description": "",
   "schema_version": "latest",
   "metadata": {},
   "prompts": [
     {
-      "name": "prompt_lzbi0gxnae1we9",
-      "input": "I am groot lets see Why is not working hey should work",
+      "name": "prompt_lz9skkqh1ln7et",
+      "input": "Plus ultra Yay",
       "metadata": {
         "model": {
           "name": "gpt-3.5-turbo-1106",
@@ -16,12 +15,10 @@
             "top_p": 1,
             "frequency_penalty": 0,
             "presence_penalty": 0,
-            "system_prompt": "Hello"
+            "system_prompt": ""
           }
         },
-        "parameters": {
-          "my": "var"
-        }
+        "parameters": {}
       }
     }
   ],
