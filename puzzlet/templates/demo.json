@@ -6,7 +6,7 @@
   "prompts": [
     {
       "name": "prompt1",
-      "input": "hello",
+      "input": "tell a short story",
       "metadata": {
         "model": {
           "name": "gpt-3.5-turbo-1106",
@@ -23,5 +23,5 @@
       }
     }
   ],
-  "$schema": "https://json.schemastore.org/aiconfig-1.0"
+  "$schema": ""
 }
