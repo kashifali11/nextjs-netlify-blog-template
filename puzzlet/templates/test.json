@@ -5,7 +5,7 @@
   "metadata": {},
   "prompts": [
     {
-      "name": "prompt1",
+      "name": "prompt",
       "input": "Repeat \"a\"",
       "metadata": {
         "model": {
